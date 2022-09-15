@@ -381,6 +381,7 @@ As tabelas no BQ devem conter as seguintes colunas para realizar as validações
 
 DV360:
 1. `[ClientName]_AdvertisersSDFs`
+
 | fullname	                            |   type    | description   |
 | -----------                           | ------    | ----------- |
 | Advertiser_Id		                    | INTEGER | |	
